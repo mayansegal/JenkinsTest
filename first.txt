@@ -1,4 +1,0 @@
-This is the first commit
-This is a change after config jenkins job
-Another one
-Last
